@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.myphonepg.shop	
+
+# Sitemaps
+Sitemap: https://www.myphonepg.shop	/sitemap.xml
